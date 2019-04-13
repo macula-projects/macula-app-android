@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':library', ':components:common', ':components:share', ':components:player', ':components:weex', ':components:login', ':pages:home'
