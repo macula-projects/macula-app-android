@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Macula App</string>
+    <string name="open">打开</string>
+    <string name="bbb">开关</string>
 </resources>
